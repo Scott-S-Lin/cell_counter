@@ -1,0 +1,5 @@
+classes =2
+train = /home/oem/ScottLin/project/darknet/data/train_cell_auto_label.txt 
+valid = /home/oem/ScottLin/project/darknet/data/valid_cell_0719.txt 
+names= /home/oem/ScottLin/project/darknet/data/obj.names
+backup =/home/oem/ScottLin/project/darknet/weights
